@@ -5,4 +5,4 @@ Yes, I know that I pushed config with the real Telegram token...
 This Telegram bot was initially planned to be one of the products of Bot Factory company, but things didn't go as intended, therefore the application was not released and I was allowed to publish it!!!
 
 I apologise but this GitHub repository will not have a proper README.md file. 
-If really want to take a look on my repos and hire me please see other repos like https://github.com/ilborsch/go-grpc-auth (this one is very good)
+If нщг really want to take a look on my repos and hire me please see other repos like https://github.com/ilborsch/go-grpc-auth (this one is very good)
